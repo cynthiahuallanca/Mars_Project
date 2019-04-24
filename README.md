@@ -1,6 +1,6 @@
 # Welcome Terricola! 
 
-To check this app, please download all docs above (including my pic haha) and the run 
+To check this app, please download all docs above (yes, including my photo) and the run 
 
 ```
 mission_to_mars.py
