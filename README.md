@@ -1,8 +1,6 @@
 # Welcome Terricola! 
 
-[Hello](https://cognigen-cellular.com/images/aliens-clipart-2.png)
-
-To check this app, download all docs above and the run 
+To check this app, please download all docs above (including my pic haha) and the run 
 
 ```
 mission_to_mars.py
