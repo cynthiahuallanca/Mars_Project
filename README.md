@@ -1,5 +1,5 @@
 # Welcome Terricola! 
-(hola)[https://cognigen-cellular.com/images/aliens-clipart-2.png]
+(https://cognigen-cellular.com/images/aliens-clipart-2.png([hola]
 
 To check this app, download all docs above and the run 
 
