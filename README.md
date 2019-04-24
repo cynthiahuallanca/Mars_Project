@@ -10,4 +10,4 @@ mission_to_mars.py
 
 Good luck, see you in the moon! 
 
-![final_app_part1.png](Images/final_app_part1.png)
+![final_app_part1.png](static/alien.png)
